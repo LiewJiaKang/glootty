@@ -3,7 +3,7 @@
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, useGLTF, Environment } from "@react-three/drei";
 import { Suspense, useRef } from "react";
-import { useFrame, type RootState } from "@react-three/fiber";
+import { useFrame } from "@react-three/fiber";
 import * as THREE from "three";
 
 function Model() {
@@ -11,7 +11,7 @@ function Model() {
   useGLTF.preload("/3d/book.glb");
   const modelRef = useRef<THREE.Group>(null);
 
-  useFrame((_state: RootState) => {
+  useFrame(() => {
     if (modelRef.current) {
       modelRef.current.rotation.x = -Math.PI / 6; // Tilt forward
       modelRef.current.rotation.y = Math.PI / 6; // Slight turn to the right

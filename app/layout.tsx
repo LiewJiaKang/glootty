@@ -16,16 +16,16 @@ export const metadata: Metadata = {
     "An interactive educational platform for students aged 8-17 and their teachers",
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
   params,
 }: Readonly<{
   children: React.ReactNode;
-  params: { lang: string };
+  params: Promise<{ lang: string }>;
 }>) {
-  const { lang } = params;
+  const resolvedParams = await params;
   // Validate that the lang parameter is supported
-  const validLang = supportedLocales.includes(lang) ? lang : defaultLocale;
+  const validLang = supportedLocales.includes(resolvedParams.lang) ? resolvedParams.lang : defaultLocale;
 
   return (
     <html lang={validLang} suppressHydrationWarning>

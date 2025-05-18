@@ -1,7 +1,7 @@
 "use client";
 
 import * as React from "react";
-import { useRouter, usePathname } from "next/navigation";
+import { usePathname } from "next/navigation";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useForm } from "react-hook-form";
 import * as z from "zod";
@@ -44,7 +44,6 @@ interface LoginFormProps {
 }
 
 export function LoginForm({ dict }: LoginFormProps) {
-  const router = useRouter();
   const pathname = usePathname();
   const lang = pathname?.split('/')[1] || 'en';
   const [isLoading, setIsLoading] = React.useState<boolean>(false);

@@ -3,11 +3,12 @@ import { SignupForm } from "@/components/auth/signup-form";
 import { getDictionary } from "@/lib/dictionaries";
 
 export default async function SignupPage({
-  params: { lang },
+  params,
 }: {
-  params: { lang: string };
+  params: Promise<{ lang: string }>;
 }) {
-  const dict = await getDictionary(lang);
+  const resolvedParams = await params;
+  const dict = await getDictionary(resolvedParams.lang);
 
   return (
     <div className="min-h-screen bg-background">

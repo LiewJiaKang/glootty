@@ -2,8 +2,13 @@ import { Navbar } from "@/components/navbar";
 import { LoginForm } from "@/components/auth/login-form";
 import { getDictionary } from "@/lib/dictionaries";
 
-export default async function LoginPage({ params }: { params: { lang: string } }) {
-  const dict = await getDictionary(params.lang);
+export default async function LoginPage({
+  params,
+}: {
+  params: Promise<{ lang: string }>;
+}) {
+  const resolvedParams = await params;
+  const dict = await getDictionary(resolvedParams.lang);
 
   return (
     <div className="min-h-screen bg-background">

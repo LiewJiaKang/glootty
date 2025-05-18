@@ -2,11 +2,16 @@ import { Button } from "@/components/ui/button";
 import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
 import { Navbar } from "@/components/navbar";
 import { getDictionary } from "@/lib/dictionaries";
-import { Github, Terminal, Laptop, Code, Monitor, Users, BoxSelect, Lightbulb } from "lucide-react";
+import { Github, Terminal, Laptop, Monitor, BoxSelect, Lightbulb } from "lucide-react";
 import Link from "next/link";
 
-export default async function AboutPage({ params }: { params: { lang: string } }) {
-  const dict = await getDictionary(params.lang);
+export default async function AboutPage({
+  params,
+}: {
+  params: Promise<{ lang: string }>;
+}) {
+  const resolvedParams = await params;
+  const dict = await getDictionary(resolvedParams.lang);
 
   return (
     <div className="min-h-screen bg-background">

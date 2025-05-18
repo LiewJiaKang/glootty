@@ -1,6 +1,23 @@
 import { GalleryVerticalEnd } from "lucide-react"
 
-import { LoginForm } from "@/components/login-form"
+import { LoginForm } from "@/components/auth/login-form"
+
+const dict = {
+  email: "Email",
+  password: "Password",
+  loginWithEmail: "Login with Email",
+  continueWithGoogle: "Continue with Google",
+  continueWithApple: "Continue with Apple",
+  noAccount: "Don't have an account?",
+  signup: "Sign up",
+  forgotPassword: "Forgot password?",
+  or: "or",
+  emailPlaceholder: "name@example.com",
+  termsNotice: "By continuing, you agree to our",
+  termsLink: "Terms of Service",
+  and: "and",
+  privacyLink: "Privacy Policy"
+};
 
 export default function LoginPage() {
   return (
@@ -12,7 +29,7 @@ export default function LoginPage() {
           </div>
           Acme Inc.
         </a>
-        <LoginForm />
+        <LoginForm dict={dict} />
       </div>
     </div>
   )

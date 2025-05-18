@@ -1,17 +1,18 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight, BookOpen, Users, BarChart3, Sparkles } from "lucide-react";
-import { ThemeToggle } from "@/components/theme-toggle";
-import { LanguageSelector } from "@/components/language-selector";
 import { HowItWorks } from "@/components/how-it-works";
-import { MobileMenu } from "@/components/mobile-menu";
 import { getDictionary } from "@/lib/dictionaries";
 import { ThreeDModel } from "@/components/ui/3d-model";
 import { TracingBeam } from "@/components/ui/tracing-beam";
 import { Navbar } from "@/components/navbar";
 
-export default async function Home({ params }: { params: { lang: string } }) {
-  const { lang } = await params;
-  const dict = await getDictionary(lang);
+export default async function Home({
+  params,
+}: {
+  params: Promise<{ lang: string }>;
+}) {
+  const resolvedParams = await params;
+  const dict = await getDictionary(resolvedParams.lang);
 
   return (
     <div className="min-h-screen flex flex-col">

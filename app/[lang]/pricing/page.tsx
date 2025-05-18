@@ -47,8 +47,13 @@ const tierToDictionaryKey: { [K in PricingTier['name']]: DictionaryTierKey } = {
   "School": "school",
 };
 
-export default async function PricingPage({ params }: { params: { lang: string } }) {
-  const dict = await getDictionary(params.lang);
+export default async function PricingPage({
+  params,
+}: {
+  params: Promise<{ lang: string }>;
+}) {
+  const resolvedParams = await params;
+  const dict = await getDictionary(resolvedParams.lang);
 
   const getFeatures = (tier: DictionaryTierKey) => {
     return Object.values(dict.pricing.tiers[tier].features);
