@@ -1,0 +1,228 @@
+{
+  "navigation": {
+    "features": "Fonctionnalités",
+    "howItWorks": "Comment Ça Marche",
+    "pricing": "Tarifs",
+    "aboutUs": "À Propos"
+  },
+  "auth": {
+    "login": "Connexion",
+    "signup": "S'inscrire",
+    "email": "Email",
+    "password": "Mot de passe",
+    "name": "Nom",
+    "createAccount": "Créer un compte",
+    "signupDescription": "Entrez vos informations ci-dessous pour créer votre compte",
+    "signupWithEmail": "S'inscrire avec l'email",
+    "loginWithEmail": "Se connecter avec l'email",
+    "continueWithGoogle": "Continuer avec Google",
+    "continueWithApple": "Continuer avec Apple",
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "forgotPassword": "Mot de passe oublié ?",
+    "or": "ou",
+    "emailPlaceholder": "m@exemple.fr",
+    "loginDescription": "Entrez vos identifiants pour accéder à votre compte",
+    "termsNotice": "En cliquant sur continuer, vous acceptez nos",
+    "termsLink": "Conditions d'utilisation",
+    "and": "et",
+    "privacyLink": "Politique de confidentialité",
+    "socialLogin": {
+      "apple": "Se connecter avec Apple",
+      "google": "Se connecter avec Google"
+    }
+  },
+  "hero": {
+    "title": {
+      "part1": "Développer la Réflexion.",
+      "part2": "Apprendre Ensemble."
+    },
+    "description": "Glootty est une plateforme éducative interactive qui rend l'apprentissage amusant et engageant pour les élèves de 8 à 17 ans, tout en fournissant des outils puissants aux enseignants pour suivre les progrès et créer des expériences d'apprentissage personnalisées.",
+    "startLearning": "Commencer à Apprendre",
+    "forTeachers": "Pour les Enseignants",
+    "mascotAlt": "Mascotte d'Apprentissage Glootty"
+  },
+  "features": {
+    "title": "Pourquoi les Élèves et les Enseignants Adorent Glootty",
+    "description": "Notre plateforme combine des expériences d'apprentissage engageantes avec des outils d'enseignement puissants pour créer l'environnement éducatif parfait.",
+    "cards": {
+      "gamified": {
+        "title": "Apprentissage Ludique",
+        "description": "Transformez l'apprentissage en aventure avec des jeux interactifs, des défis et des récompenses qui rendent l'éducation amusante."
+      },
+      "collaborative": {
+        "title": "Outils Collaboratifs",
+        "description": "Travaillez ensemble sur des projets, partagez des idées et apprenez de vos pairs avec notre suite de fonctionnalités collaboratives."
+      },
+      "dashboard": {
+        "title": "Tableau de Bord Enseignant",
+        "description": "Suivez les progrès des élèves, identifiez les domaines à améliorer et gérez les activités de classe en un seul endroit."
+      },
+      "ai": {
+        "title": "Apprentissage par IA",
+        "description": "Matériels d'apprentissage personnalisés générés par l'IA, adaptés aux besoins uniques et au style d'apprentissage de chaque élève."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "Comment Fonctionne Glootty",
+    "description": "Notre plateforme rend l'apprentissage simple, engageant et efficace en quelques étapes seulement.",
+    "steps": [
+      {
+        "title": "Créez Votre Compte",
+        "description": "Inscrivez-vous en tant qu'élève ou enseignant et configurez votre profil avec vos intérêts et objectifs d'apprentissage.",
+        "icon": "UserPlus"
+      },
+      {
+        "title": "Découvrez des Parcours d'Apprentissage",
+        "description": "Parcourez les matières et les sujets ou passez notre évaluation pour obtenir des recommandations d'apprentissage personnalisées.",
+        "icon": "Compass"
+      },
+      {
+        "title": "Engagez-vous avec du Contenu Interactif",
+        "description": "Apprenez à travers des jeux, des quiz, des vidéos et des projets collaboratifs qui rendent l'éducation amusante.",
+        "icon": "Gamepad2"
+      },
+      {
+        "title": "Suivez Votre Progression",
+        "description": "Surveillez vos réalisations, gagnez des récompenses et observez votre amélioration au fil du temps avec des analyses détaillées.",
+        "icon": "LineChart"
+      },
+      {
+        "title": "Connectez-vous et Collaborez",
+        "description": "Travaillez avec des camarades de classe sur des projets de groupe et participez à des communautés d'apprentissage.",
+        "icon": "Users"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Prêt à Transformer l'Apprentissage ?",
+    "description": "Rejoignez des élèves et des enseignants qui utilisent déjà Glootty pour rendre l'éducation plus engageante et efficace.",
+    "startLearning": "Commencez à Apprendre Aujourd'hui",
+    "scheduleDemo": "Planifier une Démo"
+  },
+  "footer": {
+    "tagline": "Rendre l'éducation engageante et accessible pour les élèves de tous âges.",
+    "platform": {
+      "title": "Plateforme",
+      "forStudents": "Pour les Élèves",
+      "forTeachers": "Pour les Enseignants",
+      "forSchools": "Pour les Écoles",
+      "pricing": "Tarifs"
+    },
+    "company": {
+      "title": "Entreprise",
+      "aboutUs": "À Propos",
+      "careers": "Carrières",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "legal": {
+      "title": "Légal",
+      "terms": "Conditions d'Utilisation",
+      "privacy": "Politique de Confidentialité",
+      "cookies": "Politique de Cookies"
+    },
+    "copyright": "Glootty Education. Tous droits réservés."
+  },
+  "pricing": {
+    "title": "Prix simples et transparents",
+    "subtitle": "Choisissez le forfait qui correspond le mieux à vos besoins. Tous les forfaits incluent un essai gratuit de 14 jours.",
+    "popularBadge": "Le Plus Populaire",
+    "billing": {
+      "monthly": "/mois",
+      "yearly": "/an"
+    },
+    "tiers": {
+      "free": {
+        "name": "Gratuit",
+        "description": "Parfait pour essayer Glootty",
+        "cta": "Commencer",
+        "features": {
+          "limitedTasks": "Tâches limitées",
+          "limitedLOR": "Accès LOR limité",
+          "basicAnalytics": "Analyses de base"
+        }
+      },
+      "pro": {
+        "name": "Pro / Éducateur",
+        "description": "Pour les éducateurs qui ont besoin d'un accès complet",
+        "cta": "Commencer l'essai gratuit",
+        "features": {
+          "unlimitedTasks": "Tâches illimitées",
+          "fullLOR": "Accès LOR complet",
+          "exportFeatures": "Fonctionnalités de téléchargement/exportation",
+          "prioritySupport": "Support email prioritaire (réponse sous 48h)"
+        }
+      },
+      "school": {
+        "name": "École",
+        "description": "Pour les écoles et les établissements d'enseignement",
+        "cta": "Contacter les ventes",
+        "features": {
+          "educatorSeats": "3-5 sièges d'éducateur",
+          "sharedDashboards": "Tableaux de bord partagés",
+          "emailCoordination": "Coordination par email",
+          "proFeatures": "Toutes les fonctionnalités Pro incluses"
+        }
+      }
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "questions": {
+        "freeTier": {
+          "question": "Qu'est-ce qui est inclus dans le forfait gratuit ?",
+          "answer": "Le forfait gratuit comprend des fonctionnalités de base comme des tâches limitées, un accès de base aux LOR et des analyses. C'est parfait pour essayer Glootty et voir s'il répond à vos besoins."
+        },
+        "switching": {
+          "question": "Puis-je changer de forfait plus tard ?",
+          "answer": "Oui, vous pouvez mettre à niveau ou rétrograder votre forfait à tout moment. Lors de la mise à niveau, vous ne serez facturé que le montant proportionnel pour le reste de votre cycle de facturation."
+        },
+        "custom": {
+          "question": "Proposez-vous des forfaits personnalisés pour les grandes institutions ?",
+          "answer": "Oui, nous proposons des forfaits entreprise personnalisés pour les grandes institutions ayant des besoins spécifiques. Contactez notre équipe commerciale pour discuter de vos besoins."
+        }
+      }
+    }
+  },
+  "aboutUs": {
+    "title": "Notre Équipe",
+    "subtitle": "Des étudiants de SMK Dato Penggawa Timur travaillant ensemble pour améliorer l'éducation",
+    "creatorDescription": "Salut ! Je suis un étudiant de 16 ans passionné par la technologie et l'éducation. Quand je ne code pas ou n'explore pas de nouvelles technologies, vous pouvez me trouver en train de bricoler avec Linux ou de travailler sur des projets de programmation passionnants.",
+    "interests": {
+      "title": "Ce Que Nous Aimons",
+      "subtitle": "Les technologies et les sujets qui alimentent notre passion",
+      "programming": {
+        "title": "Programmation",
+        "description": "Passionné par la création de solutions logicielles et l'apprentissage de nouveaux langages de programmation pour construire des applications innovantes."
+      },
+      "computerScience": {
+        "title": "Informatique",
+        "description": "Fasciné par les algorithmes, les structures de données et les principes fondamentaux qui alimentent l'informatique moderne."
+      },
+      "linux": {
+        "title": "Linux & Open Source",
+        "description": "Enthousiaste des systèmes d'exploitation Linux et de la communauté open source, toujours en train d'explorer de nouvelles distributions et outils."
+      }
+    },
+    "school": {
+      "title": "Formation Actuelle",
+      "name": "SMK Dato Penggawa Timur",
+      "description": "Un étudiant fier de se concentrer sur l'excellence académique tout en poursuivant sa passion pour la technologie et l'informatique."
+    },
+    "team": {
+      "title": "Rencontrez l'Équipe",
+      "description": "Des étudiants de SMK Dato Penggawa Timur travaillant ensemble pour améliorer Glootty.",
+      "members": {
+        "tester": {
+          "title": "Assurance Qualité",
+          "description": "S'assurer que Glootty fonctionne parfaitement grâce à des tests approfondis et à la validation de l'expérience utilisateur."
+        },
+        "advisor": {
+          "title": "Conseiller Produit",
+          "description": "Contribuer avec des idées créatives et des perspectives pour façonner les fonctionnalités et la direction de Glootty."
+        }
+      }
+    }
+  }
+}

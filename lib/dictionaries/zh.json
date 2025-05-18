@@ -1,0 +1,224 @@
+{
+  "navigation": {
+    "features": "功能",
+    "howItWorks": "工作原理",
+    "pricing": "价格",
+    "aboutUs": "关于我们"
+  },
+  "auth": {
+    "login": "登录",
+    "signup": "注册",
+    "email": "电子邮箱",
+    "password": "密码",
+    "name": "姓名",
+    "createAccount": "创建账户",
+    "signupDescription": "请在下方输入您的详细信息以创建账户",
+    "signupWithEmail": "使用电子邮箱注册",
+    "loginWithEmail": "使用电子邮箱登录",
+    "continueWithGoogle": "使用 Google 账户继续",
+    "continueWithApple": "使用 Apple 账户继续",
+    "alreadyHaveAccount": "已有账户？",
+    "noAccount": "还没有账户？",
+    "forgotPassword": "忘记密码？",
+    "or": "或",
+    "emailPlaceholder": "name@example.com",
+    "loginDescription": "欢迎回来！请输入您的详细信息",
+    "termsNotice": "点击继续即表示您同意我们的",
+    "termsLink": "服务条款",
+    "and": "和",
+    "privacyLink": "隐私政策"
+  },
+  "hero": {
+    "title": {
+      "part1": "培养思维",
+      "part2": "共同学习。"
+    },
+    "description": "Glootty 是一个互动教育平台，为 8-17 岁的学生提供有趣且引人入胜的学习体验，同时为教师提供强大的工具来跟踪进度并创建个性化的学习体验。",
+    "startLearning": "开始学习",
+    "forTeachers": "教师专区",
+    "mascotAlt": "Glootty 学习吉祥物"
+  },
+  "features": {
+    "title": "为什么学生和教师喜爱 Glootty",
+    "description": "我们的平台结合了引人入胜的学习体验和强大的教学工具，创造了完美的教育环境。",
+    "cards": {
+      "gamified": {
+        "title": "游戏化学习",
+        "description": "通过互动游戏、挑战和奖励，将学习变成一场冒险，使教育变得有趣。"
+      },
+      "collaborative": {
+        "title": "协作工具",
+        "description": "通过我们的协作功能套件，共同完成项目，分享想法，向同伴学习。"
+      },
+      "dashboard": {
+        "title": "教师仪表板",
+        "description": "在一个地方跟踪学生进度，识别需要改进的领域，并管理课堂活动。"
+      },
+      "ai": {
+        "title": "AI 驱动学习",
+        "description": "由 AI 生成的个性化学习材料，根据每个学生的独特需求和学习风格量身定制。"
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "Glootty 如何运作",
+    "description": "我们的平台通过简单的几个步骤，使学习变得简单、有趣且高效。",
+    "steps": [
+      {
+        "title": "创建您的账户",
+        "description": "以学生或教师身份注册，并设置您的个人资料，包括兴趣和学习目标。",
+        "icon": "UserPlus"
+      },
+      {
+        "title": "发现学习路径",
+        "description": "浏览学科和主题，或参加我们的评估以获取个性化学习建议。",
+        "icon": "Compass"
+      },
+      {
+        "title": "参与互动内容",
+        "description": "通过游戏、测验、视频和协作项目学习，使教育变得有趣。",
+        "icon": "Gamepad2"
+      },
+      {
+        "title": "跟踪您的进度",
+        "description": "监控您的成就，获得奖励，并通过详细分析查看您随时间的进步。",
+        "icon": "LineChart"
+      },
+      {
+        "title": "连接和协作",
+        "description": "与同学一起完成小组项目，参与学习社区。",
+        "icon": "Users"
+      }
+    ]
+  },
+  "cta": {
+    "title": "准备好改变学习方式了吗？",
+    "description": "加入已经使用 Glootty 的学生和教师，使教育更具吸引力和有效性。",
+    "startLearning": "今天开始学习",
+    "scheduleDemo": "预约演示"
+  },
+  "footer": {
+    "tagline": "让教育对各年龄段的学生都具有吸引力和可访问性。",
+    "platform": {
+      "title": "平台",
+      "forStudents": "学生专区",
+      "forTeachers": "教师专区",
+      "forSchools": "学校专区",
+      "pricing": "价格"
+    },
+    "company": {
+      "title": "公司",
+      "aboutUs": "关于我们",
+      "careers": "职业机会",
+      "blog": "博客",
+      "contact": "联系我们"
+    },
+    "legal": {
+      "title": "法律",
+      "terms": "服务条款",
+      "privacy": "隐私政策",
+      "cookies": "Cookie 政策"
+    },
+    "copyright": "Glootty Education。保留所有权利。"
+  },
+  "pricing": {
+    "title": "简单透明的定价",
+    "subtitle": "选择最适合您需求的计划。所有计划都包含14天免费试用。",
+    "popularBadge": "最受欢迎",
+    "billing": {
+      "monthly": "/月",
+      "yearly": "/年"
+    },
+    "tiers": {
+      "free": {
+        "name": "免费",
+        "description": "适合试用Glootty",
+        "cta": "开始使用",
+        "features": {
+          "limitedTasks": "有限的任务",
+          "limitedLOR": "有限的LOR访问",
+          "basicAnalytics": "基础分析功能"
+        }
+      },
+      "pro": {
+        "name": "专业版 / 教育者",
+        "description": "适合需要完整访问权限的教育者",
+        "cta": "开始免费试用",
+        "features": {
+          "unlimitedTasks": "无限任务",
+          "fullLOR": "完整LOR访问",
+          "exportFeatures": "下载/导出功能",
+          "prioritySupport": "优先电子邮件支持（48小时回复）"
+        }
+      },
+      "school": {
+        "name": "学校版",
+        "description": "适合学校和教育机构",
+        "cta": "联系销售",
+        "features": {
+          "educatorSeats": "3-5个教育者席位",
+          "sharedDashboards": "共享仪表板",
+          "emailCoordination": "基于电子邮件的协调",
+          "proFeatures": "包含所有专业版功能"
+        }
+      }
+    },
+    "faq": {
+      "title": "常见问题",
+      "questions": {
+        "freeTier": {
+          "question": "免费版包含什么？",
+          "answer": "免费版包含基本功能，如有限的任务、基本的LOR访问权限和分析功能。这非常适合试用Glootty并了解是否满足您的需求。"
+        },
+        "switching": {
+          "question": "我可以之后更换计划吗？",
+          "answer": "是的，您可以随时升级或降级您的计划。升级时，您只需支付剩余计费周期的按比例费用。"
+        },
+        "custom": {
+          "question": "您是否为大型机构提供定制计划？",
+          "answer": "是的，我们为具有特定需求的大型机构提供定制的企业计划。请联系我们的销售团队讨论您的需求。"
+        }
+      }
+    }
+  },
+  "aboutUs": {
+    "title": "我们的团队",
+    "subtitle": "来自 SMK Dato Penggawa Timur 的学生共同努力改善教育",
+    "creatorDescription": "你好！我是一名16岁的学生，对技术和教育充满热情。当我不在编程或探索新技术时，你可以看到我在研究 Linux 或开发令人兴奋的编程项目。",
+    "interests": {
+      "title": "我们的热爱",
+      "subtitle": "驱动我们热情的技术和主题",
+      "programming": {
+        "title": "编程",
+        "description": "热衷于创建软件解决方案和学习新的编程语言来构建创新应用。"
+      },
+      "computerScience": {
+        "title": "计算机科学",
+        "description": "对算法、数据结构和支撑现代计算的基本原理着迷。"
+      },
+      "linux": {
+        "title": "Linux 和开源",
+        "description": "热衷于 Linux 操作系统和开源社区，不断探索新的发行版和工具。"
+      }
+    },
+    "school": {
+      "title": "当前教育",
+      "name": "SMK Dato Penggawa Timur",
+      "description": "一名专注于学术卓越的学生，同时追求技术和计算机科学的热情。"
+    },
+    "team": {
+      "title": "认识我们的团队",
+      "description": "来自 SMK Dato Penggawa Timur 的学生们共同努力使 Glootty 变得更好。",
+      "members": {
+        "tester": {
+          "title": "质量保证",
+          "description": "通过全面测试和用户体验验证确保 Glootty 完美运行。"
+        },
+        "advisor": {
+          "title": "产品顾问",
+          "description": "贡献创意想法和见解，塑造 Glootty 的功能和方向。"
+        }
+      }
+    }
+  }
+}

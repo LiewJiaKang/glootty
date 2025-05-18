@@ -1,0 +1,252 @@
+{
+  "navigation": {
+    "features": "Ciri-ciri",
+    "howItWorks": "Cara Ia Berfungsi",
+    "pricing": "Harga",
+    "aboutUs": "Tentang Kami"
+  },
+  "auth": {
+    "login": "Log Masuk",
+    "signup": "Daftar",
+    "email": "Emel",
+    "password": "Kata Laluan",
+    "name": "Nama",
+    "createAccount": "Cipta akaun",
+    "signupDescription": "Masukkan butiran anda di bawah untuk mencipta akaun",
+    "signupWithEmail": "Daftar dengan emel",
+    "loginWithEmail": "Log masuk dengan emel",
+    "continueWithGoogle": "Teruskan dengan Google",
+    "continueWithApple": "Teruskan dengan Apple",
+    "alreadyHaveAccount": "Sudah mempunyai akaun?",
+    "noAccount": "Belum mempunyai akaun?",
+    "forgotPassword": "Lupa kata laluan?",
+    "or": "atau",
+    "emailPlaceholder": "m@contoh.com",
+    "loginDescription": "Masukkan butiran log masuk anda untuk mengakses akaun",
+    "termsNotice": "Dengan mengklik teruskan, anda bersetuju dengan",
+    "termsLink": "Syarat Perkhidmatan",
+    "and": "dan",
+    "privacyLink": "Dasar Privasi",
+    "socialLogin": {
+      "apple": "Log masuk dengan Apple",
+      "google": "Log masuk dengan Google"
+    }
+  },
+  "hero": {
+    "title": {
+      "part1": "Kembangkan Pemikiran.",
+      "part2": "Belajar Bersama."
+    },
+    "description": "Glootty adalah platform pendidikan interaktif yang menjadikan pembelajaran menyeronokkan dan menarik untuk pelajar berumur 8-17 tahun, sambil menyediakan alat yang berkuasa untuk guru-guru untuk mengesan kemajuan dan mencipta pengalaman pembelajaran yang diperibadikan.",
+    "startLearning": "Mula Belajar",
+    "forTeachers": "Untuk Guru",
+    "mascotAlt": "Maskot Pembelajaran Glootty"
+  },
+  "features": {
+    "title": "Mengapa Pelajar & Guru Suka Glootty",
+    "description": "Platform kami menggabungkan pengalaman pembelajaran yang menarik dengan alat pengajaran yang berkuasa untuk mencipta persekitaran pendidikan yang sempurna.",
+    "cards": {
+      "gamified": {
+        "title": "Pembelajaran Bergamifikasi",
+        "description": "Jadikan pembelajaran sebagai satu pengembaraan dengan permainan interaktif, cabaran, dan ganjaran yang menjadikan pendidikan menyeronokkan."
+      },
+      "collaborative": {
+        "title": "Alat Kolaboratif",
+        "description": "Bekerja bersama-sama dalam projek, berkongsi idea, dan belajar daripada rakan-rakan dengan set ciri kolaboratif kami."
+      },
+      "dashboard": {
+        "title": "Papan Pemuka Guru",
+        "description": "Jejaki kemajuan pelajar, kenal pasti bidang untuk penambahbaikan, dan urus aktiviti bilik darjah semuanya di satu tempat."
+      },
+      "ai": {
+        "title": "Pembelajaran Berkuasa AI",
+        "description": "Bahan pembelajaran peribadi yang dijana oleh AI, disesuaikan dengan keperluan unik dan gaya pembelajaran setiap pelajar."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "Bagaimana Glootty Berfungsi",
+    "description": "Platform kami menjadikan pembelajaran mudah, menarik, dan berkesan hanya dalam beberapa langkah.",
+    "steps": [
+      {
+        "title": "Cipta Akaun Anda",
+        "description": "Daftar sebagai pelajar atau guru dan sediakan profil anda dengan minat dan matlamat pembelajaran anda.",
+        "icon": "UserPlus"
+      },
+      {
+        "title": "Temui Laluan Pembelajaran",
+        "description": "Layari subjek dan topik atau ambil penilaian kami untuk mendapatkan cadangan pembelajaran yang diperibadikan.",
+        "icon": "Compass"
+      },
+      {
+        "title": "Libatkan Diri dengan Kandungan Interaktif",
+        "description": "Belajar melalui permainan, kuiz, video, dan projek kolaboratif yang menjadikan pendidikan menyeronokkan.",
+        "icon": "Gamepad2"
+      },
+      {
+        "title": "Jejaki Kemajuan Anda",
+        "description": "Pantau pencapaian anda, dapatkan ganjaran, dan lihat peningkatan anda dari masa ke masa dengan analisis terperinci.",
+        "icon": "LineChart"
+      },
+      {
+        "title": "Hubung dan Bekerjasama",
+        "description": "Bekerja dengan rakan sekelas dalam projek berkumpulan dan sertai komuniti pembelajaran.",
+        "icon": "Users"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Bersedia untuk Mengubah Pembelajaran?",
+    "description": "Sertai pelajar dan guru yang sudah menggunakan Glootty untuk menjadikan pendidikan lebih menarik dan berkesan.",
+    "startLearning": "Mula Belajar Hari Ini",
+    "scheduleDemo": "Jadualkan Demo"
+  },
+  "footer": {
+    "tagline": "Menjadikan pendidikan menarik dan mudah diakses untuk pelajar semua peringkat umur.",
+    "platform": {
+      "title": "Platform",
+      "forStudents": "Untuk Pelajar",
+      "forTeachers": "Untuk Guru",
+      "forSchools": "Untuk Sekolah",
+      "pricing": "Harga"
+    },
+    "company": {
+      "title": "Syarikat",
+      "aboutUs": "Tentang Kami",
+      "careers": "Kerjaya",
+      "blog": "Blog",
+      "contact": "Hubungi"
+    },
+    "legal": {
+      "title": "Undang-undang",
+      "terms": "Terma Perkhidmatan",
+      "privacy": "Dasar Privasi",
+      "cookies": "Dasar Kuki"
+    },
+    "copyright": "Glootty Education. Hak cipta terpelihara."
+  },
+  "pricing": {
+    "title": "Harga yang mudah dan telus",
+    "subtitle": "Pilih pelan yang paling sesuai dengan keperluan anda. Semua pelan termasuk percubaan percuma 14 hari.",
+    "popularBadge": "Paling Popular",
+    "billing": {
+      "monthly": "/bulan",
+      "yearly": "/tahun"
+    },
+    "tiers": {
+      "free": {
+        "name": "Percuma",
+        "description": "Sesuai untuk mencuba Glootty",
+        "cta": "Mulakan",
+        "features": {
+          "limitedTasks": "Tugasan terhad",
+          "limitedLOR": "Akses LOR terhad",
+          "basicAnalytics": "Analitik asas"
+        }
+      },
+      "pro": {
+        "name": "Pro / Pendidik",
+        "description": "Untuk pendidik yang memerlukan akses penuh",
+        "cta": "Mulakan Percubaan Percuma",
+        "features": {
+          "unlimitedTasks": "Tugasan tanpa had",
+          "fullLOR": "Akses LOR penuh",
+          "exportFeatures": "Ciri-ciri muat turun/eksport",
+          "prioritySupport": "Sokongan emel keutamaan (respons 48j)"
+        }
+      },
+      "school": {
+        "name": "Sekolah",
+        "description": "Untuk sekolah dan institusi pendidikan",
+        "cta": "Hubungi Jualan",
+        "features": {
+          "educatorSeats": "3-5 tempat pendidik",
+          "sharedDashboards": "Papan pemuka dikongsi",
+          "emailCoordination": "Koordinasi berasaskan emel",
+          "proFeatures": "Semua ciri Pro disertakan"
+        }
+      }
+    },
+    "faq": {
+      "title": "Soalan Lazim",
+      "questions": {
+        "freeTier": {
+          "question": "Apa yang disertakan dalam pelan percuma?",
+          "answer": "Pelan percuma termasuk ciri-ciri asas seperti tugasan terhad, akses LOR asas, dan analitik. Ia sesuai untuk mencuba Glootty dan melihat jika ia memenuhi keperluan anda."
+        },
+        "switching": {
+          "question": "Bolehkah saya menukar pelan kemudian?",
+          "answer": "Ya, anda boleh menaik taraf atau menurun taraf pelan anda pada bila-bila masa. Semasa menaik taraf, anda hanya akan dicaj jumlah prorata untuk baki kitaran bil anda."
+        },
+        "custom": {
+          "question": "Adakah anda menawarkan pelan khas untuk institusi yang lebih besar?",
+          "answer": "Ya, kami menawarkan pelan enterprise yang disesuaikan untuk institusi besar dengan keperluan khusus. Hubungi pasukan jualan kami untuk membincangkan keperluan anda."
+        }
+      }
+    }
+  },
+  "aboutUs": {
+    "title": "Pasukan Kami",
+    "subtitle": "Pelajar-pelajar dari SMK Dato Penggawa Timur bekerjasama untuk menjadikan pendidikan lebih baik",
+    "creatorDescription": "Hai! Saya pelajar berumur 16 tahun yang bersemangat dalam teknologi dan pendidikan. Apabila tidak mengekod atau meneroka teknologi baru, anda boleh jumpa saya bermain dengan Linux atau mengerjakan projek pengaturcaraan yang menarik.",
+    "interests": {
+      "title": "Apa Yang Kami Suka",
+      "subtitle": "Teknologi dan topik yang mendorong semangat kami",
+      "programming": {
+        "title": "Pengaturcaraan",
+        "description": "Bersemangat dalam mencipta penyelesaian perisian dan mempelajari bahasa pengaturcaraan baru untuk membina aplikasi inovatif."
+      },
+      "computerScience": {
+        "title": "Sains Komputer",
+        "description": "Terpesona dengan algoritma, struktur data, dan prinsip asas yang menggerakkan pengkomputeran moden."
+      },
+      "linux": {
+        "title": "Linux & Sumber Terbuka",
+        "description": "Berminat dengan sistem operasi Linux dan komuniti sumber terbuka, sentiasa meneroka pengedaran dan alat baru."
+      }
+    },
+    "school": {
+      "title": "Pendidikan Semasa",
+      "name": "SMK Dato Penggawa Timur",
+      "description": "Seorang pelajar yang berbangga memberi tumpuan kepada kecemerlangan akademik sambil mengejar minat dalam teknologi dan sains komputer."
+    },
+    "team": {
+      "title": "Kenali Pasukan Kami",
+      "description": "Rakan pelajar dari SMK Dato Penggawa Timur yang bekerjasama untuk menjadikan Glootty lebih baik.",
+      "members": {
+        "tester": {
+          "title": "Jaminan Kualiti",
+          "description": "Memastikan Glootty berfungsi dengan sempurna melalui pengujian menyeluruh dan pengesahan pengalaman pengguna."
+        },
+        "advisor": {
+          "title": "Penasihat Produk",
+          "description": "Menyumbang idea kreatif dan pandangan untuk membentuk ciri-ciri dan hala tuju Glootty."
+        }
+      }
+    }
+  },
+  "login": {
+    "title": "Selamat Kembali",
+    "subtitle": "Log masuk dengan akaun Apple atau Google anda",
+    "emailLabel": "Emel",
+    "emailPlaceholder": "m@contoh.com",
+    "passwordLabel": "Kata Laluan",
+    "forgotPassword": "Lupa kata laluan?",
+    "loginButton": "Log Masuk",
+    "orContinueWith": "Atau teruskan dengan",
+    "noAccount": "Belum mempunyai akaun?",
+    "signUp": "Daftar",
+    "termsNotice": "Dengan mengklik teruskan, anda bersetuju dengan",
+    "termsLink": "Terma Perkhidmatan",
+    "and": "dan",
+    "privacyLink": "Dasar Privasi",
+    "socialLogin": {
+      "apple": "Log masuk dengan Apple",
+      "google": "Log masuk dengan Google"
+    },
+    "testimonial": {
+      "quote": "Platform ini telah mengubah cara kami menyampaikan pendidikan, menjadikan pembelajaran lebih menarik dan mudah diakses untuk pelajar di mana sahaja.",
+      "author": "Liew Jia Kang"
+    }
+  }
+}
