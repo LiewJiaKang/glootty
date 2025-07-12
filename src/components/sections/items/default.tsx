@@ -2,11 +2,9 @@ import {
     BlocksIcon,
     BrainCircuitIcon,
     EclipseIcon,
-    FastForwardIcon,
     LanguagesIcon,
     LineChartIcon,
     MonitorSmartphoneIcon,
-    RocketIcon,
     ScanFaceIcon,
     SquarePenIcon,
 } from "lucide-react";

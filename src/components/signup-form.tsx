@@ -9,7 +9,6 @@ import {
 import { useForm, Controller, SubmitHandler } from "react-hook-form"
 import { zodResolver } from "@hookform/resolvers/zod"
 import { z } from "zod"
-import { signIn } from "next-auth/react";
 
 interface IFormInput {
     firstName: string
